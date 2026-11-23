@@ -1,2 +1,3 @@
 # sample-repo
 THIS IS A SAMPLE FOR CLASS
+I am in VS code. This is a class repository where I will not publish API keys etc. Unless...
